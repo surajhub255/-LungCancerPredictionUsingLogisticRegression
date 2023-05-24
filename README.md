@@ -1,4 +1,4 @@
-LungCancerPredictionUsingLogisticRegression
+#LungCancerPredictionUsingLogisticRegression
 
 'Accuracy of the model 95%'
 
